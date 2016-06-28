@@ -1,0 +1,10 @@
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\bin\Debug\FlashInfoWeb.Models.dll.config
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\bin\Debug\FlashInfoWeb.Models.dll
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\bin\Debug\FlashInfoWeb.Models.pdb
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\bin\Debug\EntityFramework.dll
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\bin\Debug\EntityFramework.xml
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\obj\Debug\FlashInfoWeb.Models.csprojResolveAssemblyReference.cache
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\obj\Debug\FlashInfoWeb.Models.dll
+C:\Users\tomas_rangel\Documents\GitHub\FLASHINFOWEB\FlashInfoWeb\FlashInfoWeb.Models\obj\Debug\FlashInfoWeb.Models.pdb
